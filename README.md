@@ -13,9 +13,9 @@ The dataset used in this project is from Kaggle: [IBM HR Analytics Employee Attr
 - Addressed outliers in the dataset.
 - Employed One Hot Encoding for categorical variables.
 
-### Exploratory Data Analysis (EDA)
+### Exploratory Data Analysis (EDA) & Data Visualization
 - Analyzed data distributions and relationships between features.
-- Investigated key factors influencing employee attrition.
+- Created various visualizations to investigated key factors influencing employee attrition.
 
 ### Machine Learning Models
 - Implemented classification models to predict employee attrition.
@@ -26,7 +26,7 @@ The dataset used in this project is from Kaggle: [IBM HR Analytics Employee Attr
 - Improved model performance through feature engineering and hyperparameter tuning.
 
 ## Conclusion
-- Gained insights into the causes of employee turnover.
+- Gained insights into the causes of employee attrition.
 - Developed a predictive model to help HR teams proactively address attrition.
 
 ## How to Run
